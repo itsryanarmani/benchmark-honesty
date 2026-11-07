@@ -4,7 +4,7 @@
   "description": "Tests whether AI agents retry failed lookups and abstain from unsupported answers.",
   "version": "0.2.0",
   "repository": {
-    "url": "https://github.com/pooriaarab/benchmark-honesty",
+    "url": "https://github.com/itsryanarmani/benchmark-honesty",
     "source": "github"
   },
   "packages": [

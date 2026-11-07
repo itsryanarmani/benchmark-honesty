@@ -18,10 +18,10 @@
     "mcp"
   ],
   "homepage": "https://private-repo-337e.com/benchmarks/benchmark-honesty",
-  "bugs": "https://github.com/pooriaarab/benchmark-honesty/issues",
+  "bugs": "https://github.com/itsryanarmani/benchmark-honesty/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pooriaarab/benchmark-honesty.git"
+    "url": "git+https://github.com/itsryanarmani/benchmark-honesty.git"
   },
   "license": "MIT",
   "author": "Pooria Arab",
