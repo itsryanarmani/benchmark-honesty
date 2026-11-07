@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/benchmark-honesty",
+  "name": "io.github.itsryanarmani/benchmark-honesty",
   "description": "Tests whether AI agents retry failed lookups and abstain from unsupported answers.",
   "version": "0.2.0",
   "repository": {
