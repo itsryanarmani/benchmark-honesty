@@ -3,7 +3,7 @@
 > Tests whether a model retries a transient lookup and abstains rather than inventing unavailable facts.
 
 Package: https://www.npmjs.com/package/benchmark-honesty
-Repository: https://github.com/pooriaarab/benchmark-honesty
+Repository: https://github.com/itsryanarmani/benchmark-honesty
 Directory: https://private-repo-337e.com/benchmarks/benchmark-honesty
 Provenance: data/PROVENANCE.md
 Grading: docs/grading.md

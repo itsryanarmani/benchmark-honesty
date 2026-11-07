@@ -47,5 +47,5 @@ Wilson intervals describe task-level uncertainty under a hypothetical sampling m
 Repeated runs do not increase sample size. Boundary bootstrap intervals collapse; report Wilson component intervals alongside them.
 Free hosted inference is not configured in this session. We do not test provider availability or publish learned-model scores.
 No human validation, deployment claim, or independent external registration is present.
-House reference: `pooriaarab/benchmark-family-paper`, `paper/main.tex` and its honesty entries.
+House reference: `itsryanarmani/benchmark-family-paper`, `paper/main.tex` and its honesty entries.
 The paper follows PayBench's construct-first structure without claiming its matched-pair design.
